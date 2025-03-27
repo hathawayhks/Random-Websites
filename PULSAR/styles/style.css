@@ -13,7 +13,7 @@ body {
     border: 2px solid #3c11da;
     border-radius: 50%;
     position: relative;
-    animation: rotate 5s linear infinite;
+    animation: rotate 5s linear infinite; 
 }
 
 .pulso {
